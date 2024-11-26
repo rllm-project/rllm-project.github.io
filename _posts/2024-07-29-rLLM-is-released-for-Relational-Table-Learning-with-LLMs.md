@@ -6,14 +6,14 @@ gh-repo: rllm-team/rllm
 gh-badge: [star, fork, follow]
 tags: [release]
 # mathjax: true
-author: rLLM Group
+author: Zheng Wang
 # cover-img: /assets/img/2024-10-09/bkgd.jpg
 # thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
 ---
 
 Recently, our research team at Shanghai Jiao Tong University and Tsinghua University released the first version of **rLLM** (relationLLM). The goal is to facilitate the machine learning workflows on those data stored in the relational databases with Large Language Models (LLMs).
 
-![rllm_overview](/assets/img/2024-10-10/rllm_overview.webp){: .mx-auto.d-block :}
+![rllm_overview](/assets/img/2024-07-29/rllm_overview.webp){: .mx-auto.d-block :}
 
 As shown above, rLLM performs two key functions:
 1. Breaking down state-of-the-art GNNs, LLMs, and TNNs as standardized modules.
