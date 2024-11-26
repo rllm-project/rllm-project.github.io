@@ -14,7 +14,7 @@ author: rLLM Group
 Our project is supported by the CCF-Huawei Populus Grove Fund (CCF-华为胡杨林基金数据库专项). The goal of this project is to focus on Tabular Data Governance for AI Tasks. The core challenge is: LLMs have strong generalization capabilities, while databases contain vast amounts of accurate knowledge and excel in handling tabular data. Can we combine the strengths of both to help AI models handle tasks that involve tabular data?
 
 ![photo_of_the_scene](/assets/img/2024-11-26/image.png){: .mx-auto.d-block :}
-Figure1: Venue of the Academic Report Presentation
+Figure1: Venue of the Academic Report Presentation{: .mx-auto.d-block :}
 
 In August 2024, we presented the kickoff report in Urumqi, Xinjiang [1], where Dr. Wang Zheng shared our approach and gave a talk titled "Tabular Data Governance for AI Tasks." The main points of the talk included:
 - Tabular data is fundamental for AI tasks: The clear, structured format of tabular data makes it easy for computers to process and analyze. It is widely used in key areas like artificial intelligence, data analysis, and business decision-making because of its efficiency and accuracy in handling complex tasks.
@@ -22,7 +22,7 @@ In August 2024, we presented the kickoff report in Urumqi, Xinjiang [1], where D
 - A scalable solution for tabular data governance: To solve the challenges of Tabular Data Governance, we’ve developed a scalable framework based on the BRIDGE algorithm for relational table learning. This framework, built on the rLLM platform [2], offers a robust approach to integrating AI with relational databases to improve the handling of tabular data across various domains.
 
 ![Overview_of_the_Technical_Approach](/assets/img/2024-11-26/image1.png){: .mx-auto.d-block :}
-Figure2: Overview of the Technical Approach
+Figure2: Overview of the Technical Approach{: .mx-auto.d-block :}
 
 You can watch the full video of Dr. Wang Zheng’s presentation (in Chinese) on Huawei's official account on Bilibili:📺 [https://www.bilibili.com/video/BV1qz421i7Yz](Watch the Video on Bilibili).
 
