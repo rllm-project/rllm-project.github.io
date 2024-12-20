@@ -24,7 +24,7 @@ In August 2024, we presented the kickoff report in Urumqi, Xinjiang [1], where D
 ![Overview_of_the_Technical_Approach](/assets/img/2024-08-31/image1.png){: .mx-auto.d-block :}
 <p style="text-align: center;">Figure2: Overview of the Technical Approach</p>
 
-You can watch the full video of Dr. Wang Zheng’s presentation (in Chinese) on Huawei's official account on Bilibili:📺 [https://www.bilibili.com/video/BV1qz421i7Yz](Watch the Video on Bilibili).
+You can watch the full video of Dr. Wang Zheng’s presentation (in Chinese) on Huawei's official account on Bilibili:📺 [Watch the Video on Bilibili](https://www.bilibili.com/video/BV1qz421i7Yz).
 
 <br>
 
