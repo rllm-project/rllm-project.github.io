@@ -29,5 +29,6 @@ You can watch the full video of Dr. Wang Zheng’s presentation (in Chinese) on 
 <br>
 
 References:     
-[1] CCF-Huawei Populus Grove Fund Kickoff Report [https://mp.weixin.qq.com/s/3i8w71V3_4PNDktn-Q_jNg](https://mp.weixin.qq.com/s/3i8w71V3_4PNDktn-Q_jNg).     
+[1] CCF-Huawei Populus Grove Fund Kickoff Report [https://mp.weixin.qq.com/s/3i8w71V3_4PNDktn-Q_jNg](https://mp.weixin.qq.com/s/3i8w71V3_4PNDktn-Q_jNg).   
+  
 [2] Li, W., Huang, X., Zheng, J., Wang, Z., Wang, C., Pan, L., & Li, J. (2024). rLLM: Relational Table Learning with LLMs. arXiv preprint arXiv:2407.20157.
