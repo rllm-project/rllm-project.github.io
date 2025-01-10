@@ -6,7 +6,7 @@ gh-repo: rllm-team/rllm
 gh-badge: [star, fork, follow]
 tags: [news]
 # mathjax: true
-author: Zheng Wang
+author: Ken Zhong
 # cover-img: /assets/img/2024-10-09/bkgd.jpg
 # thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
 ---
